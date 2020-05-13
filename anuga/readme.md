@@ -1,1 +1,1 @@
-These files are used to setup and run ANUGA within the google Colaboratory. They are modified from the 2018 CSDMS ANUGA clinic created and run by Stephen Robers (https://github.com/stoiver/anuga-clinic-2018)
+These files are used to setup and run ANUGA within the google Colaboratory. They are modified from the 2018 CSDMS ANUGA clinic created and run by Stephen Roberts (https://github.com/stoiver/anuga-clinic-2018)
