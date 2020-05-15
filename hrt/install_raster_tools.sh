@@ -17,7 +17,10 @@ pip -q install rasterio  > /dev/null 2>&1
 echo "(5) Install seaborn via pip"
 pip -q install seaborn  > /dev/null 2>&1 
 
-echo "(6) Download CSDMS 2020 clinic github repository"
+echo "(6) Install pygeotools via pip"
+pip -q install pygeotools  > /dev/null 2>&1 
+
+echo "(7) Download CSDMS 2020 clinic github repository"
 git clone --quiet https://github.com/littlebiggeo/csdms-clinic-2020.git  > /dev/null 2>&1 
 
-echo "(7) Ready!"
+echo "(8) Ready!"
