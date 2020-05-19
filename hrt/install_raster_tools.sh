@@ -26,7 +26,10 @@ pip -q install googledrivedownloader  > /dev/null 2>&1
 echo "(8) Install tifffile via pip"
 pip -q install tifffile  > /dev/null 2>&1 
 
-echo "(9) Download CSDMS 2020 clinic github repository"
+echo "(9) Install folium via pip"
+pip -q install folium  > /dev/null 2>&1 
+
+echo "(10) Download CSDMS 2020 clinic github repository"
 git clone --quiet https://github.com/littlebiggeo/csdms-clinic-2020.git  > /dev/null 2>&1 
 
-echo "(10) Ready!"
+echo "(11) Ready!"
