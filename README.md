@@ -18,5 +18,8 @@ The following links will open the notebooks in co-lab. Alternatively, you may do
 * [Part 2: Use of ANUGA in Flood Modeling](https://colab.research.google.com/github/littlebiggeo/csdms-clinic-2020/blob/master/csdms_2020_hrt_part2.ipynb)
   - This notebook provides an example of numerical modeling using ANUGA, an open source hydrodynamic model.
   
+  This clinic is part of the Earthcube Research Coordination Network Advancing the Analysis of High-Resolution Topography.
+  https://opentopography.org/A2HRT_RCN
+  
   
   
